@@ -1,4 +1,4 @@
-# Weather CLassification
+# Weather Classification
 
 
 ### Goal of the project:
