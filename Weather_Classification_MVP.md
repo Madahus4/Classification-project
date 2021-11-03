@@ -19,7 +19,8 @@ And our target is the **PRECIP TYPE** (rain, snow) column.
 4-find the correlation and plot heatmap.
 
 The number of columns and rows before cleaning were **12** and **96,453** After cleaning up the data the number of columns and rows are **16** and **95,829**.
-The figure below shows the correlation between the numerical features
+
+The figure below shows the correlation between features
 <img src="https://github.com/Madahus4/Classification-project/blob/main/heatmapforWeather.png" width="1000"/>
 
 
